@@ -9,4 +9,4 @@ This project demonstrates real-time multiplayer functionality using **Photon Uni
 - Dynamic room list that displays all active game rooms in real time
 
 ## 🎥 Demo Video
-[Watch the Gameplay Demo]([https://youtu.be/abc123XYZ](https://code-buddddy.github.io/game-development-portfolio/))
+[Watch the Gameplay Demo]((https://code-buddddy.github.io/game-development-portfolio/))
